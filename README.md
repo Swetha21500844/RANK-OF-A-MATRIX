@@ -17,7 +17,8 @@ A=np.array([[1,2,3],[3,6,9]])
 rank=np.linalg.matrix_rank(A)
 print(rank)
 ```
-## Output:![OUTPUT](rankmatrix.PNG)
+## Output:![rank matrix](https://user-images.githubusercontent.com/94228215/144451251-cea7ad1e-3f5b-4482-9399-2a2cf5acb65c.PNG)
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
